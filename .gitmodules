@@ -1,0 +1,21 @@
+[submodule "javacafe_wallpapers"]
+	path = javacafe_wallpapers
+	url = https://github.com/JavaCafe01/wallpapers
+[submodule "lambda_wallpapers"]
+	path = lambda_wallpapers
+	url = https://github.com/dharmx/lambda-wallpapers
+[submodule "raven2cz_wallpapers"]
+	path = raven2cz_wallpapers
+	url = https://github.com/raven2cz/public-wallpapers
+[submodule "Asthetic_Anime_Backgrounds"]
+	path = Asthetic_Anime_Backgrounds
+	url = https://github.com/Asthetic/AnimeBackgrounds
+[submodule "icepocket_wallpapers"]
+	path = icepocket_wallpapers
+	url = https://github.com/IcePocket/Wallpapers
+[submodule "frenzyexists_wallpapers"]
+	path = frenzyexists_wallpapers
+	url = https://github.com/FrenzyExists/wallpapers
+[submodule "primeagen_anime"]
+	path = primeagen_anime
+	url = https://github.com/theprimeagen/anime
